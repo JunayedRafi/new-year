@@ -19,4 +19,27 @@
 }
 .offer{
     font-family: "Inter", sans-serif;
+    margin: 120px auto 0 0;
+    align-content: center;
+    text-align: center;
 }
+.offer-title{
+    font-size: 88px;
+    color: red;
+    font-weight: bold;
+    margin: 0;
+}
+.holiday-txt{
+    margin: 48px 0 0 0;
+    font-weight: 500;
+    font-size: 24px;
+    color: red;
+    margin-bottom: 16px;
+}
+.category{
+    margin: 0;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 48px;
+}
+.party-container
